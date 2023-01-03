@@ -1,3 +1,20 @@
+Expense Tracker App
+Made using React, Context API, Firebase... 👇
+
+Technologies used
+⏩ React
+
+⏩ React Context API
+
+⏩ Firebase
+
+
+👉 State Mangement fully handled by React Context API
+
+Live Demo
+👉 https://react-expense-tracker-50dab.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
